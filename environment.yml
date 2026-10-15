@@ -1,0 +1,11 @@
+name: crispr-indel
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - crispresso2=2.3.4      # reference engine (pulls fastp for Illumina read merging)
+  - parasail-python        # built-in aligner + ONT primer search
+  - pyyaml
+  - matplotlib
+  - pytest

@@ -1,0 +1,25 @@
+regime	true_pct_modified	true_pct_frameshift	engine	pct_modified	pct_modified_corrected	pct_frameshift	pct_frameshift_corrected	informative_reads
+R10-like (scale 1)	0.000	0.000	CRISPResso2	0.952	0.000	0.952	0.000	4727
+R10-like (scale 1)	0.000	0.000	builtin	0.952	0.000	0.952	0.000	4727
+R10-like (scale 1)	9.821	7.840	CRISPResso2	10.362	9.501	8.562	7.700	4777
+R10-like (scale 1)	9.821	7.840	builtin	10.320	9.458	8.520	7.658	4777
+R10-like (scale 1)	24.655	21.746	CRISPResso2	24.900	24.178	21.982	21.260	4763
+R10-like (scale 1)	24.655	21.746	builtin	24.795	24.072	21.814	21.091	4763
+R10-like (scale 1)	50.032	42.752	CRISPResso2	49.217	48.729	42.803	42.315	4724
+R10-like (scale 1)	50.032	42.752	builtin	49.047	48.558	42.528	42.038	4724
+R10-like (scale 1)	74.995	66.533	CRISPResso2	72.331	72.066	63.898	63.632	4731
+R10-like (scale 1)	74.995	66.533	builtin	71.951	71.681	63.517	63.248	4731
+R10-like (scale 1)	88.884	74.880	CRISPResso2	86.515	86.386	74.018	73.888	4761
+R10-like (scale 1)	88.884	74.880	builtin	84.730	84.583	72.359	72.212	4761
+R9-like (scale 4)	0.000	0.000	CRISPResso2	3.650	0.000	3.650	0.000	4329
+R9-like (scale 4)	0.000	0.000	builtin	3.373	0.000	3.373	0.000	4329
+R9-like (scale 4)	9.523	7.421	CRISPResso2	11.716	8.371	9.771	6.427	4319
+R9-like (scale 4)	9.523	7.421	builtin	11.392	8.299	9.447	6.354	4319
+R9-like (scale 4)	25.254	22.210	CRISPResso2	26.502	23.718	23.149	20.364	4294
+R9-like (scale 4)	25.254	22.210	builtin	25.780	23.190	22.683	20.092	4294
+R9-like (scale 4)	49.083	42.821	CRISPResso2	47.018	45.011	40.610	38.603	4292
+R9-like (scale 4)	49.083	42.821	builtin	45.806	43.915	39.469	37.577	4292
+R9-like (scale 4)	74.863	61.055	CRISPResso2	69.509	68.353	54.437	53.282	4293
+R9-like (scale 4)	74.863	61.055	builtin	66.737	65.576	53.436	52.275	4293
+R9-like (scale 4)	90.196	80.560	CRISPResso2	82.644	81.986	73.168	72.511	4327
+R9-like (scale 4)	90.196	80.560	builtin	79.686	78.977	68.847	68.138	4327

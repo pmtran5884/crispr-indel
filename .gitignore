@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+example_results/
+crispr_indel_results/
+validation_run/
+results/
+*.egg-info/
+.DS_Store
